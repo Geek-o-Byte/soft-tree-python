@@ -1,5 +1,4 @@
 # Soft Tree (Python implemetation)
----
 Non-official python implementation of Soft Decision Trees (code for ICPR 21 paper)
 
 Origial links
